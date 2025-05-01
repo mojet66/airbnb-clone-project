@@ -72,3 +72,36 @@ Project Roles and Responsibilities
 | DevOps Engineer | Manages deployment, CI/CD pipeline, server infrastructure |
 | Product Owner | Defines requirements, prioritizes features, represents stakeholders |
 | Scrum Master | Facilitates agile processes, removes blockers, organizes meetings |
+
+
+# UI Component Patterns
+Planned Components
+1. Navbar
+  
+  a.Logo
+
+  b.Search bar
+  
+  c.User navigation
+  
+  d.Responsive menu
+  
+  e.Property Card
+
+2. Property image
+   
+  a.Basic details (price, location, rating)
+  
+  b.Favorite button
+  
+  c.Responsive layout
+  
+  d.Footer
+
+3. Site links
+   
+  a.Company information
+  
+  b.Social media links
+  
+  c.Copyright information
