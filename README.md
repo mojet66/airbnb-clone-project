@@ -58,3 +58,17 @@ Importance of identifying design properties of a mock up design.
 1. Understanding design properties like typography, colour palette, and spacing ensures consistency throughout the design.
 2. Clearly defined design properties minimize misunderstandings between designers and developers.
 3. Consistent design properties help maintain a strong brand identity across different platforms and products.
+
+
+# Project Roles and Responsibilities.
+Project Roles and Responsibilities
+| Role | Responsibility |
+|------|----------------|
+| Project Manager | Oversees timeline, coordinates team, manages deliverables |
+| Frontend Developers | Implements UI components, ensures responsive design |
+| Backend Developers | Builds APIs, manages database, implements business logic |
+| Designers | Creates mockups, maintains design system, ensures UX quality |
+| QA/Tester | Writes test cases, performs testing, reports bugs |
+| DevOps Engineer | Manages deployment, CI/CD pipeline, server infrastructure |
+| Product Owner | Defines requirements, prioritizes features, represents stakeholders |
+| Scrum Master | Facilitates agile processes, removes blockers, organizes meetings |
