@@ -39,3 +39,22 @@ Primary Pages
 Importance of User-Friendly Design
 
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
+
+Figma Design Specifications
+
+Color Styles:
+1. Primary: #FF5A5F
+2. Secondary: #008489
+3. Background: #FFFFFF
+4. Text: #222222
+5. Secondary Text: #717171
+
+Typography:
+1. Primary Font: Circular, Medium (500), 16px
+2. Headings: Circular, Bold (700), 24px-32px
+3. Secondary Text: Circular, Book (400), 14px
+
+Importance of identifying design properties of a mock up design.
+1. Understanding design properties like typography, colour palette, and spacing ensures consistency throughout the design.
+2. Clearly defined design properties minimize misunderstandings between designers and developers.
+3. Consistent design properties help maintain a strong brand identity across different platforms and products.
